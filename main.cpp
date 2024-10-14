@@ -14,7 +14,7 @@ int main()
 /* while(attemp <= 5)
 {
 cout<<endl<<"attempts no. :- "<<attemp<<endl;
-cout<<"enter the guess between 0 - 100 "<<endl;
+//cout<<"enter the guess between 0 - 100 "<<endl;
 //Implement game here
 attemp++;
 }//loop end */
